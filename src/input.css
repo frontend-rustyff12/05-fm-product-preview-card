@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&display=swap");
+
+@import "tailwindcss";
+
+@theme {
+  --font-montserrat: "Montserrat", sans-serif;
+  --font-fraunces: "Fraunces", serif;
+  --color-custom-Black: hsl(212, 21%, 14%);
+  --color-custom-Grey: hsl(228, 12%, 48%);
+  --color-custom-Cream: hsl(30, 38%, 92%);
+  --color-custom-White: hsl(0, 0%, 100%);
+  --color-custom-Green-500: hsl(158, 36%, 37%);
+  --color-custom-Green-700: hsl(158, 42%, 18%);
+  --color-custom-rose-50: hsl(330, 100%, 98%);
+}
